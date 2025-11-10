@@ -17,4 +17,4 @@ plot(x(2:n-1),der)
 grid on
 xlabel("x")
 ylabel("y")
-title('Derivative function')
+title('Derivative of the function')
